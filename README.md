@@ -4,7 +4,7 @@
 
 ## Part 1. Media Queries
 I used media queries at 576px and 993px to change the font sizes and box widths. For the layout, I used Flexbox with wrapping and widths of 100%, 49%, and 32%. This allows the three boxes to fit on different screens without using Bootstrap grid classes.
-<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/40ec2645-51a9-4dfd-b2fd-e6f87fb4c241" />
+<img width="1299" height="778" alt="image" src="https://github.com/user-attachments/assets/ecce187f-7ec4-4f11-90ec-6f39f5bc2021" />
 
 ## Part 2. Bootstrap Grid System
 I added Bootstrap through a CDN and used col-12 col-md-6 col-lg-4 for the three columns. These classes control how much space each column takes at different screen sizes. I also added a navbar with my NKDR logo and links to the page sections. I used ms-auto to move the links to the right and Bootstrap’s JavaScript bundle to make the hamburger menu open and close.
